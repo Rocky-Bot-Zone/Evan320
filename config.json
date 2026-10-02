@@ -26,7 +26,7 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "⍣⃝↣SUITEᥫ᭡CANDY꧂",
-  "prefix": ",",
+  "prefix": ".",
   "commandSuggestion": {
     "enable": true,
     "notes": "when someone types a command name that does not exist, the bot suggests the closest matching command (for example '-holp' => '-help'). Set enable to false to turn it off"
@@ -59,7 +59,7 @@
   },
   "adminBot": [
     "100002344705976",
-    "61592999771137"
+    "61593152051057"
   ],
   "whiteListMode": {
     "enable": false,
